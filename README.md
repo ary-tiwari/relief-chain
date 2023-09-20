@@ -46,11 +46,11 @@ ReliefChain is built using the following technologies:
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/ShobhittGupta/reliefchain.git`
+1. Clone the repository: `git clone https://github.com/ary-tiwari/relief-chain`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
 
 ## Contact
 
-For inquiries or support, please contact us at gshobhit6151@gmail.com.
+For inquiries or support, please contact us at arytiw@gmail.com.
