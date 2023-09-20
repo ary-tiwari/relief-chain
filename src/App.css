@@ -1,0 +1,49 @@
+/* App Styles */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+header {
+  background-color: #b4f8bb;
+  color: #08110f;
+  padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.centered-container {
+  width: 48%;
+  margin: 0 auto; /* Center the container horizontally */
+  padding: 20px;
+  background-color: #fff;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.right-pane {
+  width: 48%;
+  padding: 20px;
+  background-color: #f2f2f2;
+}
+
+footer {
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+  border-radius: 5px;
+}
+
+/* Style components within each section as needed */
